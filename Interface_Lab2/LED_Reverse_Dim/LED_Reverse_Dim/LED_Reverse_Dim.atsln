@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LED_Reverse_Dim", "LED_Reverse_Dim\LED_Reverse_Dim.cproj", "{F045D086-819E-4379-BA24-8FCBC7478925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F045D086-819E-4379-BA24-8FCBC7478925}.Debug|AVR.ActiveCfg = Debug|AVR
+		{F045D086-819E-4379-BA24-8FCBC7478925}.Debug|AVR.Build.0 = Debug|AVR
+		{F045D086-819E-4379-BA24-8FCBC7478925}.Release|AVR.ActiveCfg = Release|AVR
+		{F045D086-819E-4379-BA24-8FCBC7478925}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
